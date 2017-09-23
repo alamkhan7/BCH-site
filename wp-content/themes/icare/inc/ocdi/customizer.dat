@@ -1,0 +1,61 @@
+a:4:{s:8:"template";s:5:"icare";s:4:"mods";a:92:{s:18:"custom_css_post_id";i:1719;s:12:"icare_styles";s:2045:"
+            .top-header.icare-theme-bg-colored{
+                background-color:#00a4ef!important;
+            }
+            .top-header .styled-icons.icon-dark a,.social-links a{
+                background-color:#19bdff;
+            }
+            .top-header .icon-theme-colored.icon-dark a:hover{
+                background-color:#23c7ff
+            }
+            .topbar-btn.icare-text-colored{color:#00a4ef!important;}
+            #header .links > ul > li > a, #header .links > ul > li .wrap_custom_block > a,.drop-icon{
+                color:;
+            }
+            .header_nav{
+                background-color:#ffffff;
+            }
+            #primary-menu > li > a{
+                color:#333333
+            }
+
+            .brcmb-container h2.title,.brcmb-container li, .brcmb-container li a{color:#333333;}
+            .brcmb-container{padding-top:60px !important;padding-bottom:60px !important;}
+            #cssmenu ul li:hover > a, #cssmenu ul li.active > a,.slicknav_nav>li.active>a, .slicknav_nav>li:hover>a, .slicknav_nav ul.dropdown li:hover>a{
+                background:#5D9CEC!important;
+                color:#ffffff!important;
+            }
+            #icare-home-extra-section{background-color:#f7f7f7;}
+            #extra_title{color:;}
+            #extra_desc{color:!important;}
+            #icare-home-extra-section.layer-overlay.color-overlay::before{background-color:rgba(247,247,247,0.4);}
+            .icare-footer,.icare-footer .styled-icons.icon-dark a{background-color:#222222;}
+            .icare-footer, .icare-footer caption{ color:#808080;}
+            .icare-footer a { color:#00A4EF;}
+             .icare-footer td#today{ background-color:#00A4EF;}
+            .icare-footer .icare-widget.dark .icare-widget-title { color:#ffffff;}
+            .icare-footer-bottom{background:#3b3b3b}
+
+            #icare-home-cta-section{background-color:#00A4EF !important}
+            #icare-home-cta-section,#icare-home-cta-section a,h3#cta_title{color:#FFFFFF !important}";s:17:"icare_show_topbar";b:1;s:27:"icare_topbar_social_or_menu";s:12:"social-links";s:18:"nav_menu_locations";a:3:{s:11:"topbar-menu";i:2;s:12:"primary-menu";i:4;s:11:"footer-menu";i:4;}s:18:"icare_show_aboutus";b:1;s:16:"icare_home_about";i:33;s:17:"icare_about_color";s:7:"#ffffff";s:7:"panel_1";i:49;s:17:"icare_extra_color";s:7:"#f7f7f7";s:21:"icare_home_blog_color";s:7:"#ffffff";s:27:"icare_footer_social_or_menu";s:12:"simple-links";s:19:"icare_show_aboutus1";b:1;s:17:"icare_about_head1";s:18:"Team You can Trust";s:17:"icare_home_about1";i:1728;s:21:"icare_topbar_bg_color";s:7:"#00a4ef";s:19:"icare_show_aboutus2";b:1;s:17:"icare_about_head2";s:16:"Book Appointment";s:17:"icare_home_about2";i:49;s:26:"icare_breadcrumbs_bg_image";s:97:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/08/medical-563427_1280.jpg";s:18:"icare_service_desc";s:138:"Lorem ipsum dolor sit amet, consectetur adipisicing elit.Acque quidem eaque, amet doloribus, error inventore, quisquam totam magni cumque.";s:19:"icare_service_page1";i:1805;s:24:"icare_service_page_icon1";s:12:"fa fa-medkit";s:19:"icare_service_page2";i:1806;s:24:"icare_service_page_icon2";s:13:"fa fa-user-md";s:19:"icare_service_page3";i:1809;s:24:"icare_service_page_icon3";s:11:"fa fa-hotel";s:19:"icare_service_page4";i:1811;s:24:"icare_service_page_icon4";s:9:"fa fa-eye";s:19:"icare_service_page5";i:1815;s:24:"icare_service_page_icon5";s:19:"fa fa-mouse-pointer";s:19:"icare_service_page6";i:1812;s:24:"icare_service_page_icon6";s:14:"fa fa-list-alt";s:15:"icare_team_head";s:13:"MEET OUR TEAM";s:15:"icare_team_desc";s:138:"Lorem ipsum dolor sit amet, consectetur adipisicing elit.Acque quidem eaque, amet doloribus, error inventore, quisquam totam magni cumque.";s:16:"icare_team_page1";i:1820;s:23:"icare_team_designation1";s:8:"Surgeons";s:16:"icare_team_page2";i:1979;s:23:"icare_team_designation2";s:15:"Radiologists‎";s:16:"icare_team_page3";i:1988;s:23:"icare_team_designation3";s:15:"Neurologists‎";s:16:"icare_team_page4";i:1986;s:23:"icare_team_designation4";s:11:"Coroners‎";s:20:"icare_counter_title1";s:14:"Happy Donators";s:20:"icare_counter_count1";i:569;s:19:"icare_counter_icon1";s:13:"fa fa-smile-o";s:20:"icare_counter_title2";s:15:"Success Mission";s:20:"icare_counter_count2";i:287;s:20:"icare_counter_title3";s:17:"Volunteer Reached";s:20:"icare_counter_count3";i:250;s:19:"icare_counter_icon3";s:13:"fa fa-user-md";s:20:"icare_counter_title4";s:18:"Globalization Work";s:20:"icare_counter_count4";i:46;s:19:"icare_counter_icon2";s:12:"fa fa-trophy";s:18:"icare_show_funfact";s:2:"on";s:19:"icare_counter_icon4";s:11:"fa fa-globe";s:16:"icare_funfact_bg";s:82:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/bg-6.jpg";s:18:"icare_aboutus_page";i:1840;s:30:"icare_about_progressbar_title1";s:10:"BLOOD TEST";s:30:"icare_about_progressbar_title2";s:15:"MEDICAL CHECKUP";s:30:"icare_about_progressbar_title3";s:17:"Neurology Patient";s:30:"icare_about_progressbar_title4";s:20:"Orthopaedics Patient";s:32:"icare_about_progressbar_disable5";i:1;s:35:"icare_about_progressbar_percentage2";s:2:"85";s:35:"icare_about_progressbar_percentage1";s:2:"66";s:32:"icare_about_progressbar_disable3";i:0;s:32:"icare_about_progressbar_disable4";i:0;s:35:"icare_about_progressbar_percentage4";s:2:"75";s:35:"icare_about_progressbar_percentage3";s:2:"92";s:17:"icare_about_image";s:85:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/OO6PT80.jpg";s:18:"icare_feature_head";s:7:"Why Us?";s:18:"icare_feature_desc";s:63:"Our medical team always available for good care of your health.";s:19:"icare_feature_page1";i:1862;s:19:"icare_feature_page2";i:1864;s:19:"icare_feature_page3";i:1866;s:19:"icare_feature_page4";i:1868;s:26:"icare_feature_img_or_icon1";s:3:"img";s:23:"icare_feature_page_img1";s:98:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/professional-staff-1.jpg";s:26:"icare_feature_img_or_icon3";s:3:"img";s:23:"icare_feature_page_img3";s:98:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/Insurance-partners-1.jpg";s:26:"icare_feature_img_or_icon4";s:3:"img";s:23:"icare_feature_page_img4";s:93:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/consult-doctors.jpg";s:19:"icare_feature_image";s:115:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/technology-lab-intern-looking-female1.png";s:26:"icare_feature_img_or_icon2";s:3:"img";s:23:"icare_feature_page_img2";s:97:"http://demo.webhuntinfotech.com/icare/wp-content/uploads/sites/23/2017/09/affordable-prices-1.jpg";s:17:"icare_client_head";s:12:"Our Partners";s:17:"icare_client_desc";s:138:"Lorem ipsum dolor sit amet, consectetur adipisicing elit.Acque quidem eaque, amet doloribus, error inventore, quisquam totam magni cumque.";s:23:"icare_client_logo_image";s:29:"1912,1913,1914,1915,1916,1917";s:16:"icare_extra_head";s:15:"Appoinment Form";s:16:"icare_extra_desc";s:138:"Lorem ipsum dolor sit amet, consectetur adipisicing elit.Acque quidem eaque, amet doloribus, error inventore, quisquam totam magni cumque.";s:16:"icare_home_extra";i:49;s:16:"icare_show_extra";s:2:"on";}s:7:"options";a:2:{s:9:"site_icon";s:1:"0";s:23:"nav_menus_created_posts";a:0:{}}s:6:"wp_css";s:349:"/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+.icare-widget .caldera-grid label {
+    color: #fff;
+}
+
+.features-style1 img{
+height:100% !important;
+border-radius:50% !important;
+}
+
+.caldera-grid {
+    background-color: transparent;
+    padding: 0;
+}
+#footer .icare-widget .caldera-grid label {
+    color: #777777;
+}
+";}

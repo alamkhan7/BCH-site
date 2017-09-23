@@ -1,0 +1,225 @@
+.fsl-tips-div{
+	background-color:#1ABC9C;
+	color:white;
+	font-size:14px;
+}
+.fsl-tips-div p{
+	margin-top:10px;
+	margin-left:15px;
+	margin-bottom:20px;
+	font-size:14px;
+}
+.fsl-tips-div p strong{
+	font-size:16px !important;
+}
+.fsl-image-entry {
+	background: #fff;
+	margin-left: 1px;
+	margin-bottom:20px;
+	padding: 10px;
+	width:96%;
+	cursor:move;
+	float:left;
+	box-shadow: 0 0 6px rgba(0,0,0,.7);
+}
+
+.fsl-admin-inner-div1{
+	display:inline-block;
+	width: 28%;
+	padding-left:2px;
+	float: left;
+}
+
+.fsl-admin-inner-div2{
+	display: block; 
+	float: right;
+	width: 70%;
+	padding-left:2px;
+}
+
+#fsl_gallery_thumbs{
+	float:left;
+	width:100%;
+	font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.fsl-image-entry img{
+	width:100%;
+	max-height:150px;
+	display:block;
+	margin-bottom:5px;
+}
+
+.fsl-meta-image{
+	width:100%;
+	height:150px;
+	display:block;
+	margin-bottom:10px;
+}
+
+.fsl-meta-image:hover {
+	cursor: move;
+}
+
+.fsl_label{
+	display:inline-block;
+	width:18%;
+	font-size:13px;
+	color: #666;
+}
+
+.fsl_label_text{
+	width:80%;
+	padding: 6px;
+	font-size:12px;
+}
+
+.fsl_textarea_label{
+	display:inline-block;
+	width:18%;
+	font-size:13px;
+	color: #666;
+	vertical-align:top;
+	padding-top: 12px;
+}
+
+.fsl_textarea {
+	width:80%;
+	padding: 6px;
+	font-size:12px;
+	margin-top:8px;
+	margin-bottom:0px;
+}
+
+.fsl-image-entry .image_gallery_remove {
+	display: block;
+	float: right;
+	height: 20px;
+	margin-right: -21px;
+	margin-top: -21px;
+	outline: 0 none;
+	text-indent: -9999px;
+	width: 20px;
+}
+
+@media (max-width:1200px) {
+	.fsl-image-entry {
+		width:95%;
+	}
+}
+@media (max-width:766px){
+	.fsl-image-entry {
+		background: #fff;
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:95%;
+		cursor:move;
+		float:left;
+		box-shadow: 0 0 6px rgba(0,0,0,.7);
+	}
+}
+
+@media (max-width:460px){
+	.fsl-image-entry {
+		background: #fff;
+		margin: 0 15px 15px 0;
+		padding: 10px;
+		width:95%;
+		cursor:move;
+		float:left;
+		box-shadow: 0 0 6px rgba(0,0,0,.7);
+	}
+}
+
+.fsl-mediabar{
+	background-color: #eee;
+	color: #444;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+    font-size: 13px;
+    line-height: 1.4em;
+	width: 100%;
+    display: inline-block;
+	box-shadow: 0 0 2px rgba(0,0,0,.7);
+}
+.fsl-mediabar p{
+	padding: 7px 5px;
+    line-height: 27px;
+    margin: 0;
+    font-size: 14px;
+	float:left;
+}
+.fsl-mediabar div.fsl-mediabar-right{
+	padding: 7px 10px 0px 0px;
+    line-height: 27px;
+    margin: 0;
+    font-size: 14px;
+	float:right;
+	vertical-align:middle;
+	margin: 0 0 7px 0;
+}
+
+.fsl-mediabar-right .wp-media-buttons-icon {
+    background: url('../img/media-button.png') no-repeat top left;
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    vertical-align: text-top;
+    margin: 0 2px;
+}
+
+#FSL_delete_all_button{
+	    margin-bottom: 5px;
+}
+
+/* Slider Button */
+.btn-web {
+    position: relative;
+	width:130px;
+    padding: 10px 40px;
+    margin: 0px 10px 10px 0px;
+    float: none;
+    border-radius: 10px;
+    font-size: 16px;
+    color: #FFF;
+    text-decoration: none;  
+    
+    /* Animation */
+    transition: all 0.1s;
+    -webkit-transition: all 0.1s;
+}
+
+.button-1{
+	background-color: #1CB841;
+    border-bottom: 5px solid #106e27;
+    text-shadow: 0px -2px #106e27;
+}
+
+.button-2{
+	background-color: #3498DB;
+    border-bottom: 5px solid #2980B9;
+    text-shadow: 0px -2px #2980B9;
+}
+
+.button-3{
+	background-color: #DF7514;
+    border-bottom: 5px solid #85460c;
+    text-shadow: 0px -2px #85460c;
+}
+
+.button-4{
+	background-color: #df1414;
+    border-bottom: 5px solid #840d0d;
+    text-shadow: 0px -2px #840d0d;
+}
+
+.btn-web:hover, 
+.btn-web:focus {
+    text-decoration: none;
+    color: #fff;
+}
+
+.btn-web:active {
+    transform: translate(0px,5px);
+    -webkit-transform: translate(0px,5px);
+    border-bottom: 1px solid;
+}

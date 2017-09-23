@@ -1,0 +1,658 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Icare\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/tags/_s\n"
+"POT-Creation-Date: 2017-08-03 16:25+0530\n"
+"PO-Revision-Date: 2017-08-03 16:26+0530\n"
+"Last-Translator: \n"
+"Language-Team: WebHunt Infotech <webhuntinfotech@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_attr_e;esc_html__\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: js\n"
+
+#: 404.php:17
+msgid "Error 404"
+msgstr ""
+
+#: 404.php:32
+msgid "404!"
+msgstr ""
+
+# @ _s
+#: 404.php:33
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:34
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: 404.php:36
+msgid "Back To Home"
+msgstr ""
+
+# @ _s
+#: comments.php:44
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:46
+msgid "&larr; Older"
+msgstr ""
+
+#: comments.php:47
+msgid "Newer &rarr;"
+msgstr ""
+
+# @ _s
+#: comments.php:61
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:90
+msgid "Submit Message"
+msgstr ""
+
+#: comments.php:91
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: comments.php:92
+msgid "Leave a reply"
+msgstr ""
+
+#: functions.php:62 functions.php:157
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:63
+msgid "Top bar Menu"
+msgstr ""
+
+#: functions.php:64 functions.php:176
+msgid "Footer Menu"
+msgstr ""
+
+#: functions.php:115
+msgid "Opening Hours:  Mon - Tues : 6.00 am - 10.00 pm, Sunday Closed"
+msgstr ""
+
+#: functions.php:122 functions.php:128 functions.php:134
+msgid "Lorem ipsum"
+msgstr ""
+
+#: functions.php:123 functions.php:129 functions.php:135
+msgid ""
+"Lorem ipsum dolor sit amet, consectetur adipisicing elit. Molestias non null"
+msgstr ""
+
+#: functions.php:166
+msgid "Top Menu"
+msgstr ""
+
+#: functions.php:209
+msgid "Right Sidebar"
+msgstr ""
+
+#: functions.php:211 functions.php:243
+msgid "Add widgets here."
+msgstr ""
+
+#: functions.php:218
+msgid "Top bar Widget area"
+msgstr ""
+
+#: functions.php:220
+msgid "Add Text widget here."
+msgstr ""
+
+#: functions.php:229
+msgid "Home Service Widget Area"
+msgstr ""
+
+#: functions.php:231
+msgid "Add Text widgets here."
+msgstr ""
+
+#: functions.php:241
+msgid "Footer Widget Area"
+msgstr ""
+
+#: functions/metabox.php:24 functions/metabox.php:34 functions/metabox.php:42
+msgid "icare Image"
+msgstr ""
+
+# @ _s
+#: header.php:26
+msgid "Skip to content"
+msgstr ""
+
+#: home-about.php:40 template-parts/content-page.php:22
+#, php-format
+msgid "Continue reading %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: home-about.php:44 template-parts/content-front-page-panel.php:14
+#: template-parts/content-page.php:27 template-parts/content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: home-posts.php:36 template-parts/content-search.php:39
+#: template-parts/content.php:39
+msgid "No Comments"
+msgstr ""
+
+#: home-posts.php:36 template-parts/content-search.php:39
+#: template-parts/content.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: home-posts.php:36 template-parts/content-search.php:39
+#: template-parts/content.php:39
+msgid "% Comments"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:55
+msgid "Latest Posts"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:59
+msgid "Need Help? Call Us. +91-8899859898"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:60
+msgid "Purchase Now"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:62
+msgid "Learn More"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:71
+msgid "Need Consultant?"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:72
+msgid "Make an appointment"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:74
+msgid "Our Services"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:79
+msgid "Meet Our Staffs"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:80
+msgid "Lorem ipsum dolor sit amet, consectetur adipisicing elit"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:88
+msgid "iCare Theme Developed By | "
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:89
+msgid "WebHunt Infotech"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:165
+msgid "Footer Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:166
+msgid ""
+"configure Footer background color, footer copyright info, footer social "
+"media icons etc"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:174
+msgid "Service Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:175
+msgid "Add & configure Home Services"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:182
+msgid "Topbar Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:183
+msgid "Show Contact Information in topbar"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:187
+msgid "Show Topbar"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:195
+msgid "Topbar Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:203
+msgid "Show social Media Links or a Simple Menu"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:204
+msgid ""
+"These menu can be set in the <a class=\"linkToControl\" id="
+"\"nav_menu_locations[topbar-menu]\" href=\"#\">Menu Section</a>."
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:208
+#: inc/customizer/class-icare-customizer.php:533
+msgid "Social Links Menu"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:209
+#: inc/customizer/class-icare-customizer.php:534
+msgid "Simple Menu"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:210
+#: inc/customizer/class-icare-customizer.php:535
+msgid "Blank"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:217
+msgid "Hero Section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:222
+msgid "Show Hero Section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:229
+msgid "Hero Image"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:236
+msgid "Hero Title"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:245
+msgid "Hero Description"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:254
+msgid "Or put slider shortcode here"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:263
+msgid "Service Title & BG color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:269
+msgid "Show Service Section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:276
+msgid "Service Section Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:284
+msgid "Service Heading"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:294
+msgid "Extra Content Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:299
+msgid "Section Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:311
+msgid "Home About Section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:312
+msgid ""
+"Use this section to show your team members profile or to show the service or "
+"features you offers. Recommended Image Size is 363x247"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:316
+msgid "Show About us Section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:323
+msgid "About Section Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:331
+msgid "Heading"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:338
+msgid "Description"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:345
+msgid "Select Post category to show Posts as Content."
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:355
+msgid "Home Blog"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:361
+#: inc/customizer/class-icare-customizer.php:389
+msgid "Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:368
+#: inc/customizer/class-icare-customizer.php:401
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:377
+msgid "Call To Action"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:383
+msgid "Show CallToAction section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:395
+msgid "Font Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:408
+msgid "Button 1 URL"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:415
+msgid "Button 1 Text"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:423
+msgid "Button 2 URL"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:430
+msgid "Button 2 Text"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:439
+msgid "Footer Widget"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:440
+msgid "Show/ Hide footer widgets and change footer widget columns"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:446
+msgid "Show Footer Widgets"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:453
+msgid "Footer Widget Column"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:466
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:473
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:480
+msgid "Footer Heading Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:486
+msgid "Footer Text Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:492
+msgid "Footer Link Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:500
+msgid "Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:507
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:514
+msgid "Footer Copyright Link Text"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:521
+msgid "Footer Copyright Link"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:528
+msgid "Show social Media Links or a Simple Menu in footer"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:529
+msgid ""
+"This menu can be set in the <a class=\"linkToControl\" id="
+"\"nav_menu_locations[footer-menu]\" href=\"#\">Menu Section</a>."
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:545
+msgid "Fixed Header"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:551
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:557
+msgid "Menu Text Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:563
+msgid "Menu Text Color on Hover"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:569
+msgid "Menu Background Color"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:581
+msgid "Site layout"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:586
+msgid "Boxed Layout"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:587
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:778
+msgid "Site Layout & Background"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:779
+msgid "Site Layout & Background Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:783
+msgid "Header Options"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:826
+#, php-format
+msgid "Extra Section %d Content"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:827
+msgid "Select pages to feature in each area from the dropdowns."
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:842
+msgid "Home Page Re-order"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:843
+msgid "Here you can re-order your Home Page Section"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:860
+msgid "Home Service"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:861
+msgid "Home Extra"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:862
+msgid "Home About"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:863
+msgid "Home posts"
+msgstr ""
+
+#: inc/customizer/class-icare-customizer.php:864
+msgid "Home CTA"
+msgstr ""
+
+#: inc/extras.php:59
+msgid "Select Post"
+msgstr ""
+
+#: inc/extras.php:86
+msgid "Home"
+msgstr ""
+
+#: inc/extras.php:129
+msgid "Search results for "
+msgstr ""
+
+#: inc/extras.php:157
+msgid "Tag "
+msgstr ""
+
+#: inc/extras.php:161
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/extras.php:163
+msgid "Error 404 "
+msgstr ""
+
+#: inc/extras.php:212
+#, php-format
+msgid "<cite class=\"fn\">%s</cite> <span class=\"says\">says:</span>"
+msgstr ""
+
+#: inc/extras.php:213
+#, php-format
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: inc/extras.php:216
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/icon-functions.php:39
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#: inc/icon-functions.php:44
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: inc/template-tags.php:47 inc/template-tags.php:53
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:49
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: inc/template-tags.php:55
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: inc/template-tags.php:62
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:69 template-parts/content-page.php:38
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: inc/template-tags.php:103
+#, php-format
+msgid "Front Page Extra Section %1$s Placeholder"
+msgstr ""
+
+#: inc/template-tags.php:146
+msgid "Read More"
+msgstr ""
+
+#: inc/template-tags.php:173
+msgid "Tags:"
+msgstr ""
+
+#: inc/template-tags.php:180
+msgid "&laquo; Older"
+msgstr ""
+
+#: inc/template-tags.php:181
+msgid "Newer &raquo;"
+msgstr ""
+
+#: search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: searchform.php:4
+msgid "Search here"
+msgstr ""
+
+# @ _s
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:21
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+# @ _s
+#: template-parts/content-none.php:25
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+# @ _s
+#: template-parts/content-none.php:31
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content.php:47
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
